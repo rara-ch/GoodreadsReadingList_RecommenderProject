@@ -25,3 +25,4 @@ conda-meta/
 *.nbconvert.ipynb
 profile_default/
 ipython_config.py
+Data/goodreads_reviews.csv
