@@ -26,3 +26,5 @@ conda-meta/
 profile_default/
 ipython_config.py
 Data/goodreads_reviews.csv
+reviews.pkl
+similar_books.pkl
