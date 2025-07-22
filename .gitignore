@@ -29,3 +29,4 @@ Data/goodreads_reviews.csv
 reviews.pkl
 similar_books.pkl
 Data/books_similarity_scores.pkl
+Data/books_similarity_scores.pkl
